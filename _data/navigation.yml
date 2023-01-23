@@ -1,0 +1,26 @@
+# main links links
+main:
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Group"
+  #   url: /students/    
+
+  # - title: "Service"
+  #   url: /service/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+#  - title: "Teaching"
+#    url: /teaching/
+    
+  - title: "CV"
+    url: https://msundarmsa.github.io/CV.pdf
+  
+  - title: "Personal Projects"
+    url: /projects/
+
+  # - title: "Contact"
+  #   url: /contact/
