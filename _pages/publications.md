@@ -9,6 +9,11 @@ author_profile: true
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ&hl=en){:target="_blank"} page for a full list of my publications.
 
+### 2023
+
+*Meenatchi Sundaram Muthu Selva Annamalai*, Andrea Gadotti, Luc Rocher  
+**A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data**  
+[pre-print](https://arxiv.org/abs/2301.10053){: .btn--danger}{:target="_blank"}  
 
 ### 2022
 
