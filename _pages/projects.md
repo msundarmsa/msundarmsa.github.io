@@ -11,4 +11,4 @@ Created an open source aim tracing software for air pistol/air rifle targets usi
 
 ### சொல்லி (Solli)   
 I created a Wordle clone in தமிழ் (Tamil).  
-[code](https://github.com/msundarmsa/solli){: .btn--danger}{:target="_blank"}
+[code](https://github.com/msundarmsa/wordle-tamil-src){: .btn--danger}{:target="_blank"} [try it](https://msundarmsa.github.io/solli/){: .btn--danger}{:target="_blank"}

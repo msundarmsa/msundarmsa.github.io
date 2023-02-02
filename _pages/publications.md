@@ -22,6 +22,11 @@ Andrea Gadotti, Florimond Houssiau, *Meenatchi Sundaram Muthu Selva Annamalai*, 
 31st USENIX Security Symposium (Usenix Security 2022)  
 [pdf](https://www.usenix.org/system/files/sec22-gadotti_1.pdf){: .btn--danger}{:target="_blank"}  
 
+*Meenatchi Sundaram Muthu Selva Annamalai*, Jin Chao, Khin Mi Mi Aung  
+**Communication-Efficient Secure Federated Statistical Tests from Multiparty Homomorphic Encryption**  
+Applied Sciences 12  
+[pdf](https://www.mdpi.com/2076-3417/12/22/11462/pdf){: .btn--danger}{:target="_blank"}
+
 ### 2021
 
 Jestine Paul, *Meenatchi Sundaram Muthu Selva Annamalai*, William Ming, Ahmad Al Badawi, Bharadwaj Veeravalli, Khin Mi Mi Aung  
