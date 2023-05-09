@@ -15,6 +15,11 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 **A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data**  
 [pre-print](https://arxiv.org/abs/2301.10053){: .btn--danger}{:target="_blank"}  
 
+Jun Jie Sim, Weizhuang Zhou, Fook Mun Chan, *Meenatchi Sundaram Muthu Selva Annamalai*, Xiaoxia Deng, Benjamin Hong Meng Tan & Khin Mi Mi Aung  
+**CoVnita, an end-to-end privacy-preserving framework for SARS-CoV-2 classification**  
+Sci Rep 13, 7461 (2023)  
+[pdf](https://www.nature.com/articles/s41598-023-34535-8){: .btn--danger}{:target="_blank"}  
+
 ### 2022
 
 Andrea Gadotti, Florimond Houssiau, *Meenatchi Sundaram Muthu Selva Annamalai*, Yves-Alexandre de Montjoye  
