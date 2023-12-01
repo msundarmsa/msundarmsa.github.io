@@ -17,7 +17,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Igor Bilogrevic, Emiliano De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
-31st Network and Distributed System Security Symposium (NDSS 2024)
+31st Network and Distributed System Security Symposium (NDSS 2024)  
 [pre-print](https://arxiv.org/abs/2311.16940){: .btn--danger}{:target="_blank"}  
 
 Jun Jie Sim, Weizhuang Zhou, Fook Mun Chan, *Meenatchi Sundaram Muthu Selva Annamalai*, Xiaoxia Deng, Benjamin Hong Meng Tan & Khin Mi Mi Aung  
@@ -29,7 +29,7 @@ Sci Rep 13, 7461 (2023)
 
 Andrea Gadotti, Florimond Houssiau, *Meenatchi Sundaram Muthu Selva Annamalai*, Yves-Alexandre de Montjoye  
 **Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice**  
-31st USENIX Security Symposium (Usenix Security 2022)  
+31st USENIX Security Symposium (USENIX Security 2022)  
 [pdf](https://www.usenix.org/system/files/sec22-gadotti_1.pdf){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Jin Chao, Khin Mi Mi Aung  
