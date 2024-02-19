@@ -9,16 +9,19 @@ author_profile: true
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ&hl=en){:target="_blank"} page for a full list of my publications.
 
-### 2023
+### 2024
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Andrea Gadotti, Luc Rocher  
 **A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data**  
-[pre-print](https://arxiv.org/abs/2301.10053){: .btn--danger}{:target="_blank"}  
+33rd USENIX Security Symposium (USENIX Security 2024)  
+[pdf](https://arxiv.org/abs/2301.10053){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Igor Bilogrevic, Emiliano De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  
-[pre-print](https://arxiv.org/abs/2311.16940){: .btn--danger}{:target="_blank"}  
+[pdf](https://arxiv.org/abs/2311.16940){: .btn--danger}{:target="_blank"}  
+
+### 2023
 
 Jun Jie Sim, Weizhuang Zhou, Fook Mun Chan, *Meenatchi Sundaram Muthu Selva Annamalai*, Xiaoxia Deng, Benjamin Hong Meng Tan & Khin Mi Mi Aung  
 **CoVnita, an end-to-end privacy-preserving framework for SARS-CoV-2 classification**  
