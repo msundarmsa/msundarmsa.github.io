@@ -11,12 +11,12 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 
 ### 2024
 
-*Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro 
+*Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 Under Review  
 [pdf](https://arxiv.org/abs/2405.14106){: .btn--danger}{:target="_blank"}  
 
-*Meenatchi Sundaram Muthu Selva Annamalai*, Georgi Ganev, Emiliano De Cristofaro 
+*Meenatchi Sundaram Muthu Selva Annamalai*, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 33rd USENIX Security Symposium (USENIX Security 2024)  
 [pdf](https://arxiv.org/abs/2405.10994){: .btn--danger}{:target="_blank"}  
