@@ -16,20 +16,30 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 Under Review  
 [pdf](https://arxiv.org/abs/2405.14106){: .btn--danger}{:target="_blank"}  
 
+Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
+**The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
+Under Review  
+[pdf](https://arxiv.org/abs/2406.13985){: .btn--danger}{:target="_blank"}  
+
+*Meenatchi Sundaram Muthu Selva Annamalai*  
+**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**  
+17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)  
+[pdf](https://arxiv.org/abs/2407.06496){: .btn--danger}{:target="_blank"}  
+
 *Meenatchi Sundaram Muthu Selva Annamalai*, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
 33rd USENIX Security Symposium (USENIX Security 2024)  
-[pdf](https://arxiv.org/abs/2405.10994){: .btn--danger}{:target="_blank"}  
+[pdf](https://www.usenix.org/system/files/usenixsecurity24-annamalai-theory.pdf){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Andrea Gadotti, Luc Rocher  
 **A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data**  
 33rd USENIX Security Symposium (USENIX Security 2024)  
-[pdf](https://arxiv.org/abs/2301.10053){: .btn--danger}{:target="_blank"}  
+[pdf](https://www.usenix.org/system/files/usenixsecurity24-annamalai-linear.pdf){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Igor Bilogrevic, Emiliano De Cristofaro  
 **FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**  
 31st Network and Distributed System Security Symposium (NDSS 2024)  
-[pdf](https://arxiv.org/abs/2311.16940){: .btn--danger}{:target="_blank"}  
+[pdf](https://www.ndss-symposium.org/wp-content/uploads/2024-360-paper.pdf){: .btn--danger}{:target="_blank"}  
 
 ### 2023
 
