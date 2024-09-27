@@ -11,15 +11,15 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 
 ### 2024
 
-*Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
-**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
-Under Review  
-[pdf](https://arxiv.org/abs/2405.14106){: .btn--danger}{:target="_blank"}  
-
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
 Under Review  
 [pdf](https://arxiv.org/abs/2406.13985){: .btn--danger}{:target="_blank"}  
+
+*Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
+**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
+To appear at NeurIPS 2024  
+[pdf](https://arxiv.org/abs/2405.14106){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*  
 **It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**  
