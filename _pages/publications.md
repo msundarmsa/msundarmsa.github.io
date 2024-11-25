@@ -11,6 +11,11 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 
 ### 2024
 
+*Meenatchi Sundaram Muthu Selva Annamalai*, Borja Balle, Emiliano De Cristofaro, Jamie Hayes  
+**To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
+Under Review  
+[pdf](https://arxiv.org/abs/2411.10614){: .btn--danger}{:target="_blank"}  
+
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
 Under Review  
@@ -19,12 +24,12 @@ Under Review
 *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
 To appear at NeurIPS 2024  
-[pdf](https://arxiv.org/abs/2405.14106){: .btn--danger}{:target="_blank"}  
+[pdf](https://openreview.net/pdf/4b8080bdff94b173112c6cc0c6042066baef4b32.pdf){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*  
 **It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**  
 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)  
-[pdf](https://arxiv.org/abs/2407.06496){: .btn--danger}{:target="_blank"}  
+[pdf](https://dl.acm.org/doi/10.1145/3689932.3694767){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Georgi Ganev, Emiliano De Cristofaro  
 **"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**  
