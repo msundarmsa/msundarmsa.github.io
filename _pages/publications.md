@@ -9,21 +9,28 @@ author_profile: true
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ&hl=en){:target="_blank"} page for a full list of my publications.
 
-### 2024
+### 2025
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Borja Balle, Emiliano De Cristofaro, Jamie Hayes  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 Under Review  
 [pdf](https://arxiv.org/abs/2411.10614){: .btn--danger}{:target="_blank"}  
 
+*Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro, Igor Bilogrevic  
+**Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
+The Web Conference (WWW 2025)  
+[pdf](https://arxiv.org/abs/2502.01608){: .btn--danger}{:target="_blank"}  
+
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
-Under Review  
+Transactions on Machine Learning Research (TMLR 2025)  
 [pdf](https://arxiv.org/abs/2406.13985){: .btn--danger}{:target="_blank"}  
+
+### 2024
 
 *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**  
-To appear at NeurIPS 2024  
+38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
 [pdf](https://openreview.net/pdf/4b8080bdff94b173112c6cc0c6042066baef4b32.pdf){: .btn--danger}{:target="_blank"}  
 
 *Meenatchi Sundaram Muthu Selva Annamalai*  
