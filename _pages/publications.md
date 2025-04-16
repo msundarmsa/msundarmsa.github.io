@@ -16,6 +16,16 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 Under Review  
 [pdf](https://arxiv.org/abs/2411.10614){: .btn--danger}{:target="_blank"}  
 
+Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Sofiane Mahou, Emiliano De Cristofaro  
+**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
+Under Review  
+[pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
+
+Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Sofiane Mahou, Emiliano De Cristofaro  
+**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**  
+SynthData @ ICLR 2025  
+[pdf](https://www.arxiv.org/pdf/2504.08254){: .btn--danger}{:target="_blank"}  
+
 *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro, Igor Bilogrevic  
 **Beyond the Crawl: Unmasking Browser Fingerprinting in Real User Interactions**  
 The Web Conference (WWW 2025)  
@@ -24,7 +34,7 @@ The Web Conference (WWW 2025)
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Emiliano De Cristofaro  
 **The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**  
 Transactions on Machine Learning Research (TMLR 2025)  
-[pdf](https://arxiv.org/abs/2406.13985){: .btn--danger}{:target="_blank"}  
+[pdf](https://openreview.net/pdf?id=wcxrJcJ7vq){: .btn--danger}{:target="_blank"}  
 
 ### 2024
 
