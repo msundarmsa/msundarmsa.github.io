@@ -28,7 +28,7 @@ Under Review
 
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Sofiane Mahou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
-32nd ACM Conference on Computer and Communications Security (CCS 2025)
+32nd ACM Conference on Computer and Communications Security (CCS 2025)  
 [pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Sofiane Mahou, Emiliano De Cristofaro  
