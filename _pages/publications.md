@@ -11,14 +11,24 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=zYVEyL4AAAAJ
 
 ### 2025
 
-*Meenatchi Sundaram Muthu Selva Annamalai*, Borja Balle, Emiliano De Cristofaro, Jamie Hayes  
+Marika Swanberg, *Meenatchi Sundaram Muthu Selva Annamalai*, Jamie Hayes, Borja Balle, Adam Smith  
+**Beyond the Worst Case: Extending Differential Privacy Guarantees to Realistic Adversaries**  
+Under Review  
+[pdf](https://arxiv.org/pdf/2507.08158){: .btn--danger}{:target="_blank"}  
+
+*Meenatchi Sundaram Muthu Selva Annamalai*, Borja Balle, Jamie Hayes, Georgios Kaissis, Emiliano De Cristofaro  
+**The Hitchhiker’s Guide to Efficient, End-to-End, and Tight DP Auditing**  
+Under Review  
+[pdf](https://www.arxiv.org/pdf/2506.16666){: .btn--danger}{:target="_blank"}  
+
+*Meenatchi Sundaram Muthu Selva Annamalai*, Borja Balle, Jamie Hayes, Emiliano De Cristofaro  
 **To Shuffle or not to Shuffle: Auditing DP-SGD with Shuffling**  
 Under Review  
 [pdf](https://arxiv.org/abs/2411.10614){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Sofiane Mahou, Emiliano De Cristofaro  
 **The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**  
-Under Review  
+32nd ACM Conference on Computer and Communications Security (CCS 2025)
 [pdf](https://arxiv.org/pdf/2504.06923){: .btn--danger}{:target="_blank"}  
 
 Georgi Ganev, *Meenatchi Sundaram Muthu Selva Annamalai*, Sofiane Mahou, Emiliano De Cristofaro  
